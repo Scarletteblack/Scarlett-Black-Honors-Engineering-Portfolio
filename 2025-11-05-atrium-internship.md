@@ -1,6 +1,4 @@
----
-title: Atrium Internship
----
+# Atrium Internship
 
 ## Gaming Mounts:
 
