@@ -1,4 +1,6 @@
-# Scarlett-Black-Honors-Engineering-Portfolio
+---
+title: Scarlett Black Digital Portfolio
+--- 
 
 ## 2025-2026 Projects:
 
@@ -7,4 +9,11 @@
 - [Atrium Internship](https://github.com/Scarletteblack/Scarlett-Black-Honors-Engineering-Portfolio/blob/main/2025-11-05-atrium-internship.md)
 - [Terrain Topology](https://github.com/Scarletteblack/Scarlett-Black-Honors-Engineering-Portfolio/blob/main/2025-11-12-topography.md)
 - [PCB Boards and CNC Machine](https://github.com/Scarletteblack/Scarlett-Black-Honors-Engineering-Portfolio/blob/main/2025-11-12-pcb-board-and-cnc.md)
+
+
+# AP Networking Portfolio
+
+This year, I am also taking AP Networking, in which I have been learning about network setups, protocols, and data transmission while configuring devices like switches, routers, and firewalls. Through hands-on labs and real-world scenarios, I have built skills in troubleshooting, optimizing performance, and implementing security.
+
+- [AP Networking Digital Portfolio](https://scarletteblack.github.io/Black-Scarlett-AP-Networking-Portfolio/)
 
