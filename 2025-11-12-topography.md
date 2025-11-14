@@ -4,9 +4,14 @@ Terrain Choice: Maui, Hawaii
 
 File: https://drive.google.com/file/d/1zFuIcuqy5NvGFH_HfiYu-ng_1S_XGeXl/view?usp=share_link 
 
-Printed: 
+1st Print: 
 
 ![IMG_2435](https://github.com/user-attachments/assets/983da5ed-5f1e-41ab-8e6e-88e4ab557d85)
 ![IMG_2434](https://github.com/user-attachments/assets/919ef73b-75fa-4369-9829-e08e1b0ff1a0)
 
-Issues: The issue with this print is that the base water is too thin. I plan on fixing this by
+Issues: The issue with this print is that the base water is too thin. I fixed this issue by increasing the base height and decreasing the water drop on terrain2stl so the design looked the same while the base was less flimsy.
+
+2nd Print: 
+
+![IMG_2440](https://github.com/user-attachments/assets/1d5b3b6a-317f-44ee-966f-5f468bdbed80)
+![IMG_2439](https://github.com/user-attachments/assets/221a523f-51b4-4fa9-8a4d-979b6c8c01a7)
