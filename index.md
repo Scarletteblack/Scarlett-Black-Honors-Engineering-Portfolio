@@ -2,10 +2,7 @@
 title: Scarlett Black Digital Portfolio
 --- 
 
-| Left Align (default) | Center Align |
-| :------------------- | :----------: |
-| <p align="center"><img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" /></p>  | Charlotte Latin School - Class of '26     |
-| Scarlett Black    |   |
+
 
 <p align="center"><img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" /></p>
 
