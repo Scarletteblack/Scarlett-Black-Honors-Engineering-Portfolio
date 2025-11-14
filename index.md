@@ -2,6 +2,10 @@
 title: Scarlett Black Digital Portfolio
 --- 
 
+
+<p align="center"><img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" /></p>
+
+
 ## 2025-2026 Projects:
 
 - [Daily Journal](https://github.com/Scarletteblack/Scarlett-Black-Honors-Engineering-Portfolio/blob/main/2025-11-12-daily-journal.md)
