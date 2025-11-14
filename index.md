@@ -15,8 +15,8 @@ title: Scarlett Black Digital Portfolio
     </td>
     <td align="left" style="vertical-align: middle;">
       <h3>Scarlett Black</h3>
-      <p> <strong>Charlotte Latin School</strong> — Class of 2026<br>
-       <strong>Wake Forest University</strong> — Class of 2030</p>
+      <p> <strong>Charlotte Latin School</strong> — Class of '26<br>
+       <strong>College - Undecided</strong> — Class of -30</p>
     </td>
   </tr>
 </table>
