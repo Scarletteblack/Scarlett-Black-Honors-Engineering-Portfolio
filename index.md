@@ -4,7 +4,23 @@ title: Scarlett Black Digital Portfolio
 
 
 
-<p align="center"><img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" /></p>
+<h1 align="center">Scarlett Black Digital Portfolio</h1>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" width="140" style="border-radius:50%;">
+    </td>
+    <td align="left" style="vertical-align: middle;">
+      <h3>Scarlett Black</h3>
+      <p> <strong>Charlotte Latin School</strong> — Class of 2026<br>
+       <strong>Wake Forest University</strong> — Class of 2030</p>
+    </td>
+  </tr>
+</table>
+
 
 
 # 2025-2026 Projects:
