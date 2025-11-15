@@ -10,7 +10,7 @@ title: Home
 <!-- ========== HERO SECTION ========== -->
 
 <div style="text-align: center; margin-top: 40px;">
-  <img src="YOUR-IMAGE-URL-HERE" alt="Headshot" style="width:180px; border-radius: 50%; box-shadow: 0 0 10px #999;" />
+  <img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38"width:180px; border-radius: 50%; box-shadow: 0 0 10px #999;" />
 </div>
 
 <div style="text-align: center; margin-top: 20px;">
