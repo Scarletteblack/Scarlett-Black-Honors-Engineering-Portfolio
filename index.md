@@ -9,7 +9,7 @@ title: Scarlett Black Digital Portfolio
 <table align="center">
   <tr>
     <td align="center" width="180">
-      <img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" width="140" style="border-radius:50%;">
+     ![ScarlettheadshotAPNET-portfolio copy](https://github.com/user-attachments/assets/638bd4f0-e5db-49fb-8c32-6e3894e50e28) width="140" style="border-radius:50%;">
     </td>
     <td align="left" style="vertical-align: middle;">
       <h3>Scarlett Black</h3>
