@@ -3,19 +3,3 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme 
 
---- 
-
-<table align="center">
-  <tr>
-    <td align="center" width="180">
-      <img width="788" height="1220" alt="Scarlettheadshot" src="https://github.com/user-attachments/assets/9a1cb897-ff92-4593-807f-ba93004d3c38" width="140" style="border-radius:50%;">
-    </td>
-    <td align="left" style="vertical-align: middle;">
-      <h3>Scarlett Black</h3>
-      <p> <strong>Charlotte Latin School</strong> — Class of '26<br>
-       <strong>College - Undecided</strong> — Class of -30</p>
-    </td>
-  </tr>
-</table>
-
---- 
