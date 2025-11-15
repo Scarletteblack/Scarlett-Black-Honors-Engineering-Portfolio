@@ -2,6 +2,38 @@
 title: Scarlett Black Digital Portfolio
 --- 
 
+---
+layout: default
+title: Home
+---
+
+<!-- ========== HERO SECTION ========== -->
+
+<div style="text-align: center; margin-top: 40px;">
+
+<!-- Headshot -->
+<img src="YOUR-IMAGE-URL-HERE" alt="Headshot" style="width:180px; border-radius: 50%; box-shadow: 0 0 10px #999;" />
+
+<br><br>
+
+# **YOUR NAME HERE**
+
+### **High School:**  
+YOUR HIGH SCHOOL NAME — Class of **20XX**
+
+### **College (Planned or Attending):**  
+YOUR COLLEGE NAME — Class of **20XX**
+
+</div>
+
+---
+
+# 🛠️ **About This Portfolio**
+Welcome to my Honors Engineering Portfolio. This site showcases my engineering work, daily journals, major projects, lab assignments, and technical reflections throughout the course.
+
+Use the navigation to explore the different sections of my work!
+
+---
 
 
 <h1 align="center">Scarlett Black Digital Portfolio</h1>
