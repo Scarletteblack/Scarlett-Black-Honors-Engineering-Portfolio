@@ -10,11 +10,10 @@ title: Home
 <!-- ========== HERO SECTION ========== -->
 
 <div style="text-align: center; margin-top: 40px;">
+  <img src="YOUR-IMAGE-URL-HERE" alt="Headshot" style="width:180px; border-radius: 50%; box-shadow: 0 0 10px #999;" />
+</div>
 
-<!-- Headshot -->
-<img src="YOUR-IMAGE-URL-HERE" alt="Headshot" style="width:180px; border-radius: 50%; box-shadow: 0 0 10px #999;" />
-
-<br><br>
+<div style="text-align: center; margin-top: 20px;">
 
 # **YOUR NAME HERE**
 
@@ -29,9 +28,7 @@ YOUR COLLEGE NAME — Class of **20XX**
 ---
 
 # 🛠️ **About This Portfolio**
-Welcome to my Honors Engineering Portfolio. This site showcases my engineering work, daily journals, major projects, lab assignments, and technical reflections throughout the course.
 
-Use the navigation to explore the different sections of my work!
 
 ---
 
