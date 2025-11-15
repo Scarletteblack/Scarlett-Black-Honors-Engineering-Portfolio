@@ -2,7 +2,7 @@
 title: Scarlett Black Digital Portfolio
 --- 
 
-<h1 align="center">Scarlett Black Digital Portfolio</h1>
+<h1 align="center">Engineering Digital Portfolio</h1>
 
 ---
 
