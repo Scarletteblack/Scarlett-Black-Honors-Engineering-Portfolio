@@ -1,8 +1,4 @@
----
-title: Scarlett Black Digital Portfolio
---- 
-
-<h1 align="center">AP Networking Digital Portfolio</h1>
+<h1 align="center">Scarlett Black AP Networking Digital Portfolio</h1>
 
 ---
 
