@@ -24,4 +24,4 @@ tags:
 * 11/14/2025 - Work on Atrium mounts in Fusion360
 * 11/17/2025 - Work on formatting terrain projects and set up in Aspire
 * 11/18/2025 - Meeting with Atrium Health 
-* 11/20/2025 - Update and finalize git pages
+* 11/20/2025 - Update and finalize GitHub pages
