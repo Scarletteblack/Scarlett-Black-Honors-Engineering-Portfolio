@@ -1,10 +1,9 @@
 Terrain Choice: Maui, Hawaii
-<img width="1389" height="677" alt="Screenshot 2025-11-12 091917" src="https://github.com/user-attachments/assets/68e40a30-957a-473e-afe1-7a72740b69bd" />
-<img width="1479" height="728" alt="Screenshot 2025-11-12 092435" src="https://github.com/user-attachments/assets/296ab4e8-0f50-4ddb-9e29-c918ad16e1d4" />
 
 File: https://drive.google.com/file/d/1zFuIcuqy5NvGFH_HfiYu-ng_1S_XGeXl/view?usp=share_link 
 
 <img width="1389" height="677" alt="Screenshot 2025-11-12 091917" src="https://github.com/user-attachments/assets/1240aa2c-9191-472f-b423-e7ad0e090962" />
+
 <img width="1251" height="723" alt="Screenshot 2025-11-12 091905" src="https://github.com/user-attachments/assets/1f006457-6520-410a-bc79-644cfad2c5ca" />
 
 1st Print: 
