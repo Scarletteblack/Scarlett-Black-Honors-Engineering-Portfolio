@@ -4,6 +4,12 @@ title: "PCB Board & CNC"
 
 ## Workflow
 ### **MakeraCam**
+
+Files needed:
+* [Resistance1-PTH.drl.zip](https://github.com/user-attachments/files/23660147/Resistance1-PTH.drl.zip)
+* [Resistance1-F_Cu.gbr.zip](https://github.com/user-attachments/files/23660150/Resistance1-F_Cu.gbr.zip)
+* [Resistance1-Edge_Cuts.gbr.zip](https://github.com/user-attachments/files/23660152/Resistance1-Edge_Cuts.gbr.zip)
+
 #### **Preparing the Design**
 
 1. **Start a New Project**
