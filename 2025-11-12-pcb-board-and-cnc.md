@@ -36,6 +36,14 @@ title: "PCB Board & CNC"
 
 <img width="1889" height="805" alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
 
+<img width="800" alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
+
+<img alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
+
+<img alt="MakeraCam 1 - everything selected"
+     src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168"
+     style="max-width:100%; height:auto;" />
+
 ---
 
 #### **Toolpath Creation**
