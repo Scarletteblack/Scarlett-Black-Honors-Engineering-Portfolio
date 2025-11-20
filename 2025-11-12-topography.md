@@ -1,13 +1,17 @@
 Terrain Choice: Maui, Hawaii
-<img width="1389" height="677" alt="Screenshot 2025-11-12 091917" src="https://github.com/user-attachments/assets/68e40a30-957a-473e-afe1-7a72740b69bd" />
-<img width="1479" height="728" alt="Screenshot 2025-11-12 092435" src="https://github.com/user-attachments/assets/296ab4e8-0f50-4ddb-9e29-c918ad16e1d4" />
 
 File: https://drive.google.com/file/d/1zFuIcuqy5NvGFH_HfiYu-ng_1S_XGeXl/view?usp=share_link 
 
+<img width="1389" height="677" alt="Screenshot 2025-11-12 091917" src="https://github.com/user-attachments/assets/1240aa2c-9191-472f-b423-e7ad0e090962" />
+
+<img width="1251" height="723" alt="Screenshot 2025-11-12 091905" src="https://github.com/user-attachments/assets/1f006457-6520-410a-bc79-644cfad2c5ca" />
+
 1st Print: 
 
-![IMG_2435](https://github.com/user-attachments/assets/983da5ed-5f1e-41ab-8e6e-88e4ab557d85)
-![IMG_2434](https://github.com/user-attachments/assets/919ef73b-75fa-4369-9829-e08e1b0ff1a0)
+![IMG_2435](https://github.com/user-attachments/assets/64e2a1f5-0fdb-4ed5-ab61-7d7ce31c33c7)
+![IMG_2434](https://github.com/user-attachments/assets/6780b08e-9655-4859-a26c-ac1e0003cd72)
+
+
 
 Issues: The issue with this print is that the base water is too thin. I fixed this issue by increasing the base height and decreasing the water drop on terrain2stl so the design looked the same while the base was less flimsy.
 

@@ -1,8 +1,4 @@
----
-title: Scarlett Black Digital Portfolio
---- 
-
-<h1 align="center">Engineering Digital Portfolio</h1>
+<h1 align="center">Scarlett Black - Engineering Digital Portfolio</h1>
 
 ---
 
@@ -26,15 +22,12 @@ title: Scarlett Black Digital Portfolio
 # 2025-2026 Projects:
 
 - [Daily Journal](2025-11-12-daily-journal.md)
-- [Atrium Internship](2025-11-05-atrium-internship.md)
-- [Terrain Topology](2025-11-12-topography.md)
+- [FABLab Rehab - Atrium Internship](2025-11-05-atrium-internship.md)
 - [PCB Boards and CNC Machine](2025-11-12-pcb-board-and-cnc.md)
+- [Terrain Topology](2025-11-12-topography.md)
 
 
 
 # AP Networking Portfolio
-
-This year, I am also taking AP Networking, in which I have been learning about network setups, protocols, and data transmission while configuring devices like switches, routers, and firewalls. Through hands-on labs and real-world scenarios, I have built skills in troubleshooting, optimizing performance, and implementing security.
-
 - [AP Networking Digital Portfolio](https://scarletteblack.github.io/Black-Scarlett-AP-Networking-Portfolio/)
 
