@@ -99,7 +99,8 @@ title: "PCB Board & CNC"
 * To edit later on the milling machine computer:
   **File → Save As**, choose .mkc format and save in Downloads.
 * Upload the final file to your folder in the Fab Google Drive.
-You can download my G-code file here: [BlackSResistorPracticegcode.nc](/assets/BlackSResistorPracticegcode.nc)
+You can download my G-code file here: [BlackSResistorgcode.nc](https://drive.google.com/file/d/1K5RXsDciwy71AvXccdPgC4JZii-PDm6O/view?usp=sharing)
+
 
 
 ### **Using the CNC Machine**
