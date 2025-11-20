@@ -34,15 +34,7 @@ title: "PCB Board & CNC"
      * Y: 6
    * The design should shift to align with the axes and be offset from the material edge.
 
-<img width="1889" height="805" alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
-
-<img width="800" alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
-
 <img alt="MakeraCam 1 - everything selected" src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168" />
-
-<img alt="MakeraCam 1 - everything selected"
-     src="https://github.com/user-attachments/assets/0239808e-1188-4e53-b6b0-8023ebe57168"
-     style="max-width:100%; height:auto;" />
 
 ---
 
@@ -62,7 +54,7 @@ title: "PCB Board & CNC"
    * 0.2 mm × 30° Engraving (Metal)
 6. Click **Calculate**.
 
-<img width="1383" height="650" alt="MakeraCam 2 - drilling" src="https://github.com/user-attachments/assets/3c6c48d5-8ad8-407c-b86e-234a91c118fe" />
+<img alt="MakeraCam 2 - drilling" src="https://github.com/user-attachments/assets/3c6c48d5-8ad8-407c-b86e-234a91c118fe" />
 
 
 
@@ -74,7 +66,7 @@ title: "PCB Board & CNC"
 4. Add tool: **8 mm Corn**.
 5. Click **Calculate**.
 
-<img width="1895" height="904" alt="MakeraCam 3 - Drilling" src="https://github.com/user-attachments/assets/06870a58-8bcf-4835-b385-67e2d4d1711e" />
+<img alt="MakeraCam 3 - Drilling" src="https://github.com/user-attachments/assets/06870a58-8bcf-4835-b385-67e2d4d1711e" />
 
 
 ##### **Cutting the Outline**
@@ -91,12 +83,12 @@ title: "PCB Board & CNC"
 5. Add tool: **8 mm Corn**.
 6. Click **Calculate**.
 
-<img width="1911" height="955" alt="MakeraCam 4 - Contour" src="https://github.com/user-attachments/assets/781ef867-875e-47b8-9546-3a9ce09f02bb" />
+<img alt="MakeraCam 4 - Contour" src="https://github.com/user-attachments/assets/781ef867-875e-47b8-9546-3a9ce09f02bb" />
 
 ---
 
-<img width="728" height="473" alt="MakeraCam 5 - full board" src="https://github.com/user-attachments/assets/9b8382f1-d685-4f5c-b205-15c2aaaa77c5" />
-<img width="1284" height="698" alt="MakeraCam 6 - Preview" src="https://github.com/user-attachments/assets/7e0a352e-050d-472e-b2f9-ce5bbd98c7cd" />
+<img alt="MakeraCam 5 - full board" src="https://github.com/user-attachments/assets/9b8382f1-d685-4f5c-b205-15c2aaaa77c5" />
+<img alt="MakeraCam 6 - Preview" src="https://github.com/user-attachments/assets/7e0a352e-050d-472e-b2f9-ce5bbd98c7cd" />
 
 
 ---
@@ -152,15 +144,15 @@ You can download my G-code file here: [BlackSResistorgcode.nc](https://drive.goo
 
 ## Images
 
-<img width="3264" height="2448" alt="boardpremill" src="https://github.com/user-attachments/assets/9225cf24-09af-43e2-934d-37c71910cf24" />
+<img alt="boardpremill" src="https://github.com/user-attachments/assets/9225cf24-09af-43e2-934d-37c71910cf24" />
 
 * This shows the copper in the CNC machine before being milled
 
-<img width="3264" height="2448" alt="postmill" src="https://github.com/user-attachments/assets/2a6c2cf6-0b3c-4d10-94fb-bbf76bc6f8ca" />
+<img alt="postmill" src="https://github.com/user-attachments/assets/2a6c2cf6-0b3c-4d10-94fb-bbf76bc6f8ca" />
 
 * This is a photo of my board after milling while it was still in the CNC machine
 
-<img width="2826" height="2120" alt="finishedpcb" src="https://github.com/user-attachments/assets/1b7b8d81-4ae0-475d-a6ea-02333ca68a5b" />
+<img alt="finishedpcb" src="https://github.com/user-attachments/assets/1b7b8d81-4ae0-475d-a6ea-02333ca68a5b" />
 
 * Board after milling and removing it from the machine
 
