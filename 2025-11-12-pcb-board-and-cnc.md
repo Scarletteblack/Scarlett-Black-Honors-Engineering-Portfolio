@@ -142,13 +142,17 @@ You can download my G-code file here: [BlackSResistorPracticegcode.nc](/assets/B
 ---
 
 ## Images
-<img width="3264" height="2448" alt="boardpremill" src="https://github.com/user-attachments/assets/911d7c64-b832-4486-999e-eab7906af074" />
+
+<img width="3264" height="2448" alt="boardpremill" src="https://github.com/user-attachments/assets/9225cf24-09af-43e2-934d-37c71910cf24" />
+
 * This shows the copper in the CNC machine before being milled
 
-<img width="3264" height="2448" alt="postmill" src="https://github.com/user-attachments/assets/f96cccb3-aaf6-4b9c-b86f-66e89f1f1d97" />
+<img width="3264" height="2448" alt="postmill" src="https://github.com/user-attachments/assets/2a6c2cf6-0b3c-4d10-94fb-bbf76bc6f8ca" />
+
 * This is a photo of my board after milling while it was still in the CNC machine
 
-<img width="2826" height="2120" alt="finishedpcb" src="https://github.com/user-attachments/assets/c250d80a-e248-43d3-9002-a4aed4fc0617" />
+<img width="2826" height="2120" alt="finishedpcb" src="https://github.com/user-attachments/assets/1b7b8d81-4ae0-475d-a6ea-02333ca68a5b" />
+
 * Board after milling and removing it from the machine
 
 
