@@ -4,12 +4,6 @@ title: "PCB Board & CNC"
 
 ## Workflow
 ### **MakeraCam**
-
-Files needed:
-* [Resistance1-PTH.drl.zip](https://github.com/user-attachments/files/23660147/Resistance1-PTH.drl.zip)
-* [Resistance1-F_Cu.gbr.zip](https://github.com/user-attachments/files/23660150/Resistance1-F_Cu.gbr.zip)
-* [Resistance1-Edge_Cuts.gbr.zip](https://github.com/user-attachments/files/23660152/Resistance1-Edge_Cuts.gbr.zip)
-
 #### **Preparing the Design**
 
 1. **Start a New Project**
@@ -20,10 +14,10 @@ Files needed:
      * Y: 101 mm
      * Z: 1.7 mm
 
-2. **Download Required Files from the Fab Drive (Blue Folder: “Dubick”)**
-   * Resistance1-F_Cu.gbr
-   * Resistance1-PTH.drl
-   * Resistance1-Edge_Cuts.gbr
+2. **Download Required Files (here or in the FAB Lab Drive)**
+* [Resistance1-PTH.drl.zip](https://github.com/user-attachments/files/23660147/Resistance1-PTH.drl.zip)
+* [Resistance1-F_Cu.gbr.zip](https://github.com/user-attachments/files/23660150/Resistance1-F_Cu.gbr.zip)
+* [Resistance1-Edge_Cuts.gbr.zip](https://github.com/user-attachments/files/23660152/Resistance1-Edge_Cuts.gbr.zip)
 
 3. **Import Files into MakeraCAM**
    * **File → Import PCB** → Downloads → Resistance1-Edge_Cuts.gbr → Open
