@@ -22,7 +22,7 @@
 # 2025-2026 Projects:
 
 - [Daily Journal](2025-11-12-daily-journal.md)
-- [Atrium Internship](2025-11-05-atrium-internship.md)
+- [FABLab Rehab - Atrium Internship](2025-11-05-atrium-internship.md)
 - [PCB Boards and CNC Machine](2025-11-12-pcb-board-and-cnc.md)
 - [Terrain Topology](2025-11-12-topography.md)
 
