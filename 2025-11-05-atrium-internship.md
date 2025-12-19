@@ -3,11 +3,21 @@
 All Projects: [FABLab Rehab](https://karlinsmith08.github.io/FABLabRehab_Atrium_Health/)
 
 Learn more about our projects with Atrium Health: [Charlotte Latin Kicks Off Biomedical Internship Program](https://www.charlottelatin.org/about/school-news/news-details/~board/news/post/charlotte-latin-kicks-off-biomedical-internship-program)
+
 ## Gaming Mounts:
+
+#### Description: 
+Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working to design stable and affordable mounts that patients can use in order to play video games. While playing video games seems like a minor part of recovery, the impact that playing games has on the patients is profound. Giving patients a source of entertainment that they are in control of allows patients to have a sense of normalcy and independence that can feel difficult to come by in their recovery journey. Additionally, video games are fun and a good escape for patients to enjoy. When initially meeting with Atrium Rehab, we saw the mounts they were using that cost patients upwards of $300 per mount, and with many patients needing multiple mounts, the cost can often be unjustifiable to families. Not only does the hospital have limited amounts of mounts for the patients, but when patients return to their homes, they no longer have access to the mounts unless they buy them. Caroline and I's goal is to have a mount that patients can use by late January. 
+
+#### Key Design Considerations:
+1. The mount needs to be stable enough not to move if hit or when pushed against
+   * uijh
+
+### Conceptual Reference 
+This phone mount by [Hardware Lab](https://www.printables.com/@Gdoniu93_219588) served as the inspiration for our initial design. We chose to base our project on this because the locking joints and mobility of the mount align with the mount that Caroline and I are trying to create. We knew that the main points that would not work for our project are the top phone holder parts and the base of the mount. 
 
 [Printables Prototype](https://www.printables.com/model/1114209-articulated-arm/files )
 
-From the file above, we printed and assembled an initial arm. 
 
 ### Design Aspects: 
 
