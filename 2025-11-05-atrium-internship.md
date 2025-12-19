@@ -20,6 +20,18 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 3. Mobility
   * As mentioned before, the length needs to be adjustable for individual patients, but the mount needs to be flexible and easy to change the angles of attachments
 
+---
+
+### Moving Forward 
+
+* Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
+* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
+* Design mount attachments focusing mainly on the ball joint as the connecting point
+* Tightening the joints between the arms, making them more secure
+* Making the arms snap into place more easily
+
+---
+
 ### Conceptual Reference 
 This phone mount by [Hardware Lab](https://www.printables.com/@Gdoniu93_219588) served as the inspiration for our initial design. We chose to base our project on this because the locking joints and mobility of the mount align with the mount that Caroline and I are trying to create. We knew that the main points that would not work for our project are the top phone holder parts and the base of the mount. 
 
@@ -32,14 +44,22 @@ This phone mount by [Hardware Lab](https://www.printables.com/@Gdoniu93_219588) 
 
 ![IMG_2453](https://github.com/user-attachments/assets/b2e8f0ec-7eee-442c-ba8a-0da4d95b23b9)
 
-This is not our design. This clamp came from the printables mount linked above. When testing the clamp, the bottom would bend when tightened and it would slide easily. 
+The design above is not our design. This clamp came from the printables mount linked above. When testing the clamp, the bottom would bend when tightened and it would slide easily. 
+
+<img alt="Screenshot 2025-12-19 at 2 27 21 AM" src="https://github.com/user-attachments/assets/6d059b9f-a4fc-48cd-aa13-b2d10a105e16" />
+
+This is a photo of the current clamp that Atrium Health Rehab Center uses.
 
 As we redesign the clamp, we are working to make it more sturdy and to fit on more surfaces. Additionally, we will add and grip to the inside to prevent sliding. 
 
-### Moving Forward: 
+#### Joints: 
 
-* Finding a more sturdy material to print with, balancing stability, cost, and weight
-* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
-* Design mount attachments focusing mainly on the ball joint as the connecting point
-* Tightening the joints between the arms, making them more secure
-* Making the arms snap into place more easily
+![IMG_4416](https://github.com/user-attachments/assets/b81a0a1d-a4cd-4e00-8cbf-7284fbdc90d9)
+
+This was the first ratchet joint that we looked at using. It did not move easily or lock easily. 
+
+
+![IMG_2452](https://github.com/user-attachments/assets/b92367d9-8bcb-484f-a5bc-587aceafd07d)
+
+
+These are the current locking ratchet joints that we are using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
