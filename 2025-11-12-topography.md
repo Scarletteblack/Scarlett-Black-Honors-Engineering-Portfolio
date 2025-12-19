@@ -12,6 +12,11 @@
 
 <img alt="Screenshot 2025-12-19 at 12 20 02 AM" src="https://github.com/user-attachments/assets/3cebf860-6819-4c69-82f4-470dbf3d7cbf" />
 
+---
+
+## Milled Maui Topology 
+
+![IMG_1810](https://github.com/user-attachments/assets/e965546a-5c23-4ca7-8bf8-b27e04fea91a)
 
 ---
 
@@ -122,9 +127,16 @@
 
 <img alt="Screenshot 2025-12-19 at 12 59 36 AM" src="https://github.com/user-attachments/assets/746065af-faf5-4b71-8de9-ed8ac6535512" />
 
+---
 
-#### CHALLENGES
-A struggle that I encountered was with the exportation of the Aspire files and loading them onto the machine. This was because I continued to export the gcodes and the file would be empty when I moved to the PC connected to the MakeraCam. This was because I was not exporting it as a cnc. I had tried multiple times as a .nc, but once I saved it as a .cnc, it uploaded very easily and all I had to do was home and offset the machine. 
+## Issues Encountered 
+ The only issue I encountered while working on this project was in the setup of MakeraCam prior to milling on the CNC machine. From a previous mill, Auto Set by Offset had been set to **Anchor 2** when it should have been set to **Anchor 1**. This caused the drill to go into the baseplate and off the toolpath. After stopping the machine and editing the settings, I restarted the mill. The second time the CNC machine successfully ran the g-code. Below is a photo of the setting after editing and where the drill went into the baseplate of the CNC machine.
 
-### SUMMARY 
-I think that the most important thing that I learned during this project is how to create the toolpath and navigate Aspire. I had to restart multiple times because of confusion, so I learned the process well and could do it without a workflow. If I were to change something, I think that I would make my zone more focused on the mountain range, and create more of a difference in the height. This would have added to the steepness of the mountain and pointed out each individual peak. In the future, I plan to stain this wood and mount it atop mulitple pieces of 1/8 inch wood. They will create a base slightly larger than the mountain. I will then engrave Breckenridge, Colorado on it and gift it to my parents. 
+ ![IMG_1798](https://github.com/user-attachments/assets/95928721-ea86-4592-9245-0363c961d46f)
+ 
+![IMG_1799](https://github.com/user-attachments/assets/5d60df5a-fde3-42db-a005-52825a53aaba)
+
+---
+
+### Reflection 
+My biggest takeaways from this project were learning how to create toolpaths in Aspire and using MakeraCam with the CNC machines. Due to trying multiple variations of Maui with various water and base heights, I not only became more comfortable with the Aspire and the various toolpaths, but also reinforced my skills on the 3D printers. Due to my issue with the setup in MakeraCam, I am much more familiar with the  processes in the software as well as the physical setup in the CNC machine. If I were to redo this project, I would want a larger square piece of wood. As my design was a square and I did not want extra space filled by just water, I was constrained to a smaller area for my mill. I plan on building a base out of small wood pieces and engraving the Island name into the wood.
