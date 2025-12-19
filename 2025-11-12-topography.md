@@ -1,6 +1,8 @@
 Terrain Choice: Maui, Hawaii
 
-[Maui Terrain STL File](https://drive.google.com/file/d/1zFuIcuqy5NvGFH_HfiYu-ng_1S_XGeXl/view?usp=share_link)
+[Maui Terrain STL - 3D Print](https://drive.google.com/file/d/1zFuIcuqy5NvGFH_HfiYu-ng_1S_XGeXl/view?usp=share_link)
+
+[](https://drive.google.com/file/d/1YeP-Ajn_wwSX-puco9e1-VFG__rGq-zf/view?usp=share_link)
 
 <img alt="Screenshot 2025-11-12 091917" src="https://github.com/user-attachments/assets/1240aa2c-9191-472f-b423-e7ad0e090962" />
 
