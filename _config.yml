@@ -1,5 +1,5 @@
 title: Scarlett Black Digital Portfolio
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme 
 
