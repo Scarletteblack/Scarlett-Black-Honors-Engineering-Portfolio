@@ -118,9 +118,9 @@
 5. Watch the toolpath preview
 6. Run the G-code
 
-<img width="143" height="141" alt="Screenshot 2025-12-19 at 1 00 00 AM" src="https://github.com/user-attachments/assets/60d5d363-f00d-47c4-92ad-80b0211627c2" />
+<img alt="Screenshot 2025-12-19 at 1 00 00 AM" src="https://github.com/user-attachments/assets/60d5d363-f00d-47c4-92ad-80b0211627c2" />
 
-<img width="296" height="256" alt="Screenshot 2025-12-19 at 12 59 36 AM" src="https://github.com/user-attachments/assets/746065af-faf5-4b71-8de9-ed8ac6535512" />
+<img alt="Screenshot 2025-12-19 at 12 59 36 AM" src="https://github.com/user-attachments/assets/746065af-faf5-4b71-8de9-ed8ac6535512" />
 
 
 #### CHALLENGES
