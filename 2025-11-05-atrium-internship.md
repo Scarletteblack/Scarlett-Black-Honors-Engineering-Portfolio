@@ -22,6 +22,26 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 
 ---
 
+### Materials, Expenses, and Tools
+
+**Materials** 
+
+So far, the only material we have used is PLA. We will continue to use PLA until we finalize our prototype. Once we have a final design, we will shift to a more durable and stronger material. 
+
+Possible materials: Aluminum, Acetal, and Reinforced Plastic
+
+
+**Expenses** 
+
+The cost of all of the parts we have printed thus far comes out to roughly $4.00.
+
+
+**Tools**
+
+For this particular project, just the 3D printers are necessary. We are aiming to keep these designs simple due to the Atrium Rehab Center only having access to a 3D printer and other limited equipment. We will potentially outsource the mounts to be made once we have finalized the design. 
+
+---
+
 ### Moving Forward 
 
 * Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
