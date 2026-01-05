@@ -58,7 +58,10 @@ For this particular project, just the 3D printers are necessary. We are aiming t
 ### Conceptual Reference 
 This phone mount by [Hardware Lab (Creator on Printables)](https://www.printables.com/@Gdoniu93_219588) served as the inspiration for our initial design. We chose to base our project on this because the locking joints and mobility of the mount align with the mount that Caroline and I are trying to create. We knew that the main points that would not work for our project are the top phone holder parts and the base of the mount. 
 
-[Printables Prototype - Actual Mount Design](https://www.printables.com/model/1114209-articulated-arm/files )
+[Printables Prototype - Actual Mount Design](https://www.printables.com/model/1114209-articulated-arm/files)
+
+Under the title **Model Files**, there are downloadable links to every piece used thus far. Currently, we are editing and redesigning certain pieces, but listed below are all of the pieces we have printed and the quantity.
+* Parts 1-6, Part 7 29mm, Parts 8-10, Two of Parts 11-15, Part 16 180mm, Parts 17-20, Part 21 180mm, Parts 22-27, and Part 32
 
 
 ### Design Aspects: 
