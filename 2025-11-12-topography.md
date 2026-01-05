@@ -5,6 +5,8 @@
 
 [CNC Toolpath](https://drive.google.com/file/d/1YeP-Ajn_wwSX-puco9e1-VFG__rGq-zf/view?usp=share_link)
 
+[Aspire Toolpath](https://drive.google.com/file/d/1NpE2JmzP8RSheH2KM_3RyPsRKdhBAGzk/view?usp=share_link)
+
 ---
 
 ##### The 3D print was used to determine the proper water and drop height before milling. 
