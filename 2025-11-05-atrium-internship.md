@@ -26,14 +26,15 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 
 **Materials** 
 
-So far, the only material we have used is PLA. We will continue to use PLA until we finalize our prototype. Once we have a final design, we will shift to a more durable and stronger material. 
+So far, the only material we have used is PLA. We will continue to use PLA until we finalize our prototype. Once we have a final design, we will shift to a more durable and stronger material. Currently, PLA makes the most sense for our prototypes because it is inexpensive and there is easy access to it in the lab. 
 
 Possible materials: Aluminum, Acetal, and Reinforced Plastic
+* We are still looking into the pros, cons, and logistics of all of these materials.
 
 
 **Expenses** 
 
-The cost of all of the parts we have printed thus far comes out to roughly $4.00.
+The cost of PLA thus far is $6.30
 
 
 **Tools**
