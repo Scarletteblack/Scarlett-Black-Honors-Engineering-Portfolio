@@ -4,6 +4,8 @@ All Projects: [FABLab Rehab](https://karlinsmith08.github.io/FABLabRehab_Atrium_
 
 Learn more about our projects with Atrium Health: [Charlotte Latin Kicks Off Biomedical Internship Program](https://www.charlottelatin.org/about/school-news/news-details/~board/news/post/charlotte-latin-kicks-off-biomedical-internship-program)
 
+Daily Journal: 
+
 ## Gaming Mounts:
 
 #### Description: 
