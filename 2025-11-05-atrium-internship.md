@@ -63,7 +63,7 @@ This phone mount by [Hardware Lab (Creator on Printables)](https://www.printable
 
 ### Design Aspects: 
 
-[**Video of Current Mount**](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-12-daily-journal.html)
+[**Video of Current Mount**](https://drive.google.com/file/d/1tTBhlx15WmFcmSOWZiEZaXROaMfHbyK7/view?usp=share_link)
 
 #### Clamp:  
 
