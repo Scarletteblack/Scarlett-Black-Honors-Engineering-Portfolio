@@ -24,13 +24,6 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 
 ---
 
-### Task Analysis
-
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSXCDKx7U6v_n2bNNNe-R1jgGsKZ8uySW3g5Zo91Be_IDZY7_K6B6yFrgJeVb58BQxEck8npVrNNUBQ/pub?embedded=true"></iframe>
-
-
----
-
 ### Materials, Expenses, and Tools
 
 **Materials** 
@@ -59,6 +52,12 @@ For this particular project, just the 3D printers are necessary. We are aiming t
 * Design mount attachments focusing mainly on the ball joint as the connecting point
 * Tightening the joints between the arms, making them more secure
 * Making the arms snap into place more easily
+
+#### Task Analysis
+
+https://docs.google.com/document/d/e/2PACX-1vSXCDKx7U6v_n2bNNNe-R1jgGsKZ8uySW3g5Zo91Be_IDZY7_K6B6yFrgJeVb58BQxEck8npVrNNUBQ/pub
+
+
 
 ---
 
