@@ -24,6 +24,19 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 
 ---
 
+### Task Analysis
+
+<iframe
+  src="https://docs.google.com/document/d/1z2R_ccYYJdTIqUvkrXOMxdGd80mH8Qh4afIKo5yMJjY/edit?usp=sharing"
+  width="100%"
+  height="800"
+  style="border:none;">
+</iframe>
+
+
+
+---
+
 ### Materials, Expenses, and Tools
 
 **Materials** 
