@@ -26,4 +26,7 @@ title: "Daily Journal"
 **December**
 * 12/08/2025 - Prepare Aspire file and begin first topology mill on the CNC
 * 12/09/2025 - Begin the second mill and work on mount attachments for atrium
-* 12/10/2025 - Second in-person meeting with Atrium, where we walked through design elements, asked questions, and received feedback. Feedback can be found on my FabLab Rehab Page
+* 12/10/2025 - We had our second in-person meeting with Atrium, where we walked through design elements, asked questions, and received feedback. More in-depth feedback can be found on my [FabLab Rehab Page](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-05-atrium-internship.html).
+
+**January**
+* 01/07/2026 - I created a task analysis for both the mount plates and the ratchet joints. By identifying the issues and all of the steps that need to occur, I have a better idea of the timeline leading up to March 5th (Innovation and Design Showcase). Additionally, I began to design the mount plates in Fusion 360, starting with the ball joints. 
