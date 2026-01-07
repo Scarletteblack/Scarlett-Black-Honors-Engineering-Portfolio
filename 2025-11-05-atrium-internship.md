@@ -27,7 +27,7 @@ Working with Atrium Health Rehabilitation Center, Caroline Uys and I are working
 ### Task Analysis
 
 <iframe
-  src="[https://docs.google.com/document/d/e/YOUR_PUBLISHED_ID/pub?embedded=true](https://docs.google.com/document/d/e/2PACX-1vSXCDKx7U6v_n2bNNNe-R1jgGsKZ8uySW3g5Zo91Be_IDZY7_K6B6yFrgJeVb58BQxEck8npVrNNUBQ/pub?embedded=true)"
+  src="https://docs.google.com/document/d/e/YOUR_PUBLISHED_ID/pub?embedded=true"
   style="width:100%; height:90vh; border:none;">
 </iframe>
 
