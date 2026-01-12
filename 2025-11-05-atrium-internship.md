@@ -36,8 +36,11 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 
 **Expenses** 
 
-The cost of PLA thus far is $6.30
+The cost of the PLA for the Prototype was $6.30
 
+The cost of the first mount plate was $0.51
+
+**The cost of the whole project is $6.81 of PLA**
 
 **Tools**
 
