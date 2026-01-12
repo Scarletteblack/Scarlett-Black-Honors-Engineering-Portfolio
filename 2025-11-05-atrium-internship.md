@@ -4,7 +4,7 @@ All Projects: [FABLab Rehab](https://karlinsmith08.github.io/FABLabRehab_Atrium_
 
 Learn more about our projects with Atrium Health: [Charlotte Latin Kicks Off Biomedical Internship Program](https://www.charlottelatin.org/about/school-news/news-details/~board/news/post/charlotte-latin-kicks-off-biomedical-internship-program)
 
-For Daily Updates on All Projects: [Daily Journal](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-12-daily-journal.html)
+For daily updates on all projects: [Daily Journal](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-12-daily-journal.html)
 
 ## Gaming Mounts:
 
@@ -69,10 +69,23 @@ This phone mount by [Hardware Lab (Creator on Printables)](https://www.printable
 Under the title **Model Files**, there are downloadable links to every piece used thus far. Currently, we are editing and redesigning certain pieces, but listed below are all of the pieces we have printed and the quantity.
 * Parts 1-6, Part 7 29mm, Parts 8-10, Two of Parts 11-15, Part 16 180mm, Parts 17-20, Part 21 180mm, Parts 22-27, and Part 32
 
+[**Video of Current Mount**](https://drive.google.com/file/d/1tTBhlx15WmFcmSOWZiEZaXROaMfHbyK7/view?usp=share_link)
+
+
 
 ### Design Aspects: 
+#### Plate: 
 
-[**Video of Current Mount**](https://drive.google.com/file/d/1tTBhlx15WmFcmSOWZiEZaXROaMfHbyK7/view?usp=share_link)
+The phone mount that we used as our conceptual reference does not include a mount that is similar to the one we will be using in our project so this design is not based on the Printables Mount. When we met with the nurses at Atrium Health Rehab, they liked the mobility that the ball joint would provide the plate. Thus, I designed the initial plate with their input in mind. My initial prototype for the plate is a ball joint connected to a rectangular plate. This initial design will give me a baseline on how heavy the plate will be, the size it will be, and the fit of the ball into the mount. 
+
+<img width="1007" height="587" alt="inbambu" src="https://github.com/user-attachments/assets/d16cecf8-37c5-4761-84ed-8074b07a05b0" />
+
+
+On Wednesday, I plan to meet with the nurses at Atrium and plan to ask the following questions. These will guide my design going forward. 
+* What size and shape are the majority of the buttons
+* What size screws are used to attach the buttons
+
+---
 
 #### Clamp:  
 
