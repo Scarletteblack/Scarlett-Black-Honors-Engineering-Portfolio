@@ -6,7 +6,7 @@ title: "Daily Journal"
 * 10/17/2025 - Today, we learned how to use VS Code and Document on GitHub. This day was mainly informative, teaching us how to update and organize our pages. We did have some time to explore and update the premade template.
 * 10/21/2025 - We learned more about the nuances of GitHub. Additionally, I decided that it would be best for me to make a different repository and not follow the premade template. 
 * 10/22/2025 - I began 3D printing the prototype pieces for Atrium Mounts. I printed them on the Bambu printers and let them print overnight.
-* 10/23/2025 - I spent time removing the supports on the smaller pieces. The arms of the mounts failed to print successfully and stopped midway through so I rotated them and printed them another way.
+* 10/23/2025 - I spent time removing the supports on the smaller pieces. The arms of the mounts failed to print successfully and stopped midway through, so I rotated them and printed them another way.
 * 10/29/2025 - Straying away from the Atrium project, we learned the MakeraCam software and I created [BlackSResistorPracticegcode.nc](/assets/BlackSResistorPracticegcode.nc). 
 * 10/30/2025 - Created slides for presentation and introduction to the Pearl/Atrium Project
 * 10/31/2025 - Mill Board Using G-code from MakeraCam - [PCB Board & CNC Documentation](https://scarletteblack.github.io/Black-Scarlett-Honors-Engineering-Portfolio/PCB-Board-CNC/)
@@ -29,4 +29,5 @@ title: "Daily Journal"
 * 12/10/2025 - We had our second in-person meeting with Atrium, where we walked through design elements, asked questions, and received feedback. More in-depth feedback can be found on my [FabLab Rehab Page](https://scarletteblack.github.io/Scarlett-Black-Honors-Engineering-Portfolio/2025-11-05-atrium-internship.html).
 
 **January**
-* 01/07/2026 - I created a task analysis for both the mount plates and the ratchet joints. By identifying the issues and all of the steps that need to occur, I have a better idea of the timeline leading up to March 5th (Innovation and Design Showcase). Additionally, I began to design the mount plates in Fusion 360, starting with the ball joints. 
+* 01/07/2026 - I created a task analysis for both the mount plates and the ratchet joints. By identifying the issues and all of the steps that need to occur, I have a better idea of the timeline leading up to March 5th (Innovation and Design Showcase). Additionally, I began to design the mount plates in Fusion 360, starting with the ball joints.
+* 01/07/2026 - I updated my [Gantt Chart](https://docs.google.com/spreadsheets/d/1KUwdj9kI55HfgN7Id-bnvF9NDiX7lRgDbh5SX6mPF74/edit?usp=sharing) and the status of my task analysis. I also finalized my initial design for the mount plate and began printing it. I focused on making it compatible with the current mount we are using. Additionally, I researched the size screws used with the buttons. 
