@@ -36,11 +36,15 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 
 **Expenses** 
 
-The cost of the PLA for the Prototype was $6.30
+**The cost of the whole project is $8.32 of PLA**
 
-The cost of the first mount plate was $0.51
+| Mount Part | Specifics | File | Cost |
+|----------|----------|----------|----------|
+|Prototype  | Whole  | Row 1C   | 6.30   |
+| Plate | Design 1 - Whole  | Row 1C   | 0.51  |
+| Plate | Design 2 - Whole  | Row 1C   | 1.29  |
+| Plate | Design 2 - Ball Joint + Cap  | Row 1C   | 0.22  |
 
-**The cost of the whole project is $6.81 of PLA**
 
 **Tools**
 
