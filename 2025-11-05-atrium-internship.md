@@ -36,7 +36,7 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 
 **Expenses** 
 
-**The cost of the whole project is $8.32 of PLA**
+**The cost of the whole project is $9.64 of PLA**
 
 | Mount Part | Specifics | File | Cost |
 |----------|----------|----------|----------|
@@ -44,6 +44,7 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 | Plate | Design 1 - Whole  | Row 1C   | 0.51  |
 | Plate | Design 2 - Whole  | Row 1C   | 1.29  |
 | Plate | Design 2 - Ball Joint + Cap  | Row 1C   | 0.22  |
+| Plate | Design 2 - Whole | Row 1C   | 1.32  |
 
 
 **Tools**
