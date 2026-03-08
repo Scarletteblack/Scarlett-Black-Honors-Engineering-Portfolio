@@ -36,30 +36,30 @@ Possible materials: Aluminum, Acetal, and Reinforced Plastic
 
 **Expenses** 
 
-**The cost of the whole project is $9.64 of PLA**
+**The cost of the whole project is $10.85 of PLA**
 
-| Mount Part | Specifics | File | Cost |
-|----------|----------|----------|----------|
-|Prototype  | Whole  | Row 1C   | 6.30   |
-| Plate | Design 1 - Whole  | Row 1C   | 0.51  |
-| Plate | Design 2 - Whole  | Row 1C   | 1.29  |
-| Plate | Design 2 - Ball Joint + Cap  | Row 1C   | 0.22  |
-| Plate | Design 2 - Whole | Row 1C   | 1.32  |
-
+| Mount Part | Specifics  | Cost |
+|----------|----------|---------|
+|Prototype  | Whole    | 6.30   |
+| Plate | Design 1 - Whole   | 0.51  |
+| Plate | Design 2 - Whole   | 1.29  |
+| Plate | Design 2 - Ball Joint + Cap   | 0.22  |
+| Plate | Design 2 - Whole  | 1.32  |
+| 3 inch Plate | Design 1 - Whole  | 1.21  |
 
 **Tools**
 
 For this particular project, just the 3D printers are necessary. We are aiming to keep these designs simple due to the Atrium Rehab Center only having access to a 3D printer and other limited equipment. We will potentially outsource the mounts to be made once we have finalized the design. 
+
+This project will include heat-set metal inserts to replace some of the threading. 3D printed threading can wear down overtime making the connections between parts weaker. The metal inserts would fix this issue making the overall mount last longer. 
 
 ---
 
 ### Moving Forward 
 
 * Finding a more sturdy material to print with. Find a balance of stability, cost, and weight
-* Redesigning the clamps so they fit onto tables and wheelchairs (rounded and flat surfaces)
-* Design mount attachments focusing mainly on the ball joint as the connecting point
-* Tightening the joints between the arms, making them more secure
-* Making the arms snap into place more easily
+* Tightening the joints between the arms, making them more secure - current task
+* adapting the base joint to fit into the mount designed be Caroline
 
 #### Task Analysis
 
@@ -81,40 +81,31 @@ Under the title **Model Files**, there are downloadable links to every piece use
 
 
 
-### Design Aspects: 
-#### Plate: 
+## Design Aspects: 
+### Plate: 
 
 The phone mount that we used as our conceptual reference does not include a mount that is similar to the one we will be using in our project so this design is not based on the Printables Mount. When we met with the nurses at Atrium Health Rehab, they liked the mobility that the ball joint would provide the plate. Thus, I designed the initial plate with their input in mind. My initial prototype for the plate is a ball joint connected to a rectangular plate. This initial design will give me a baseline on how heavy the plate will be, the size it will be, and the fit of the ball into the mount. 
 
 <img width="1007" height="587" alt="inbambu" src="https://github.com/user-attachments/assets/d16cecf8-37c5-4761-84ed-8074b07a05b0" />
 
+The current design for the plates has the piece to screw it on preattatched giving the nurses and pacients one less piece to keep track of. Additionally, the plate comes in two sizes, 5 inches and 3 inches in order to accomidate for the two button sizes that the pacients use. 
 
-On Wednesday, I plan to meet with the nurses at Atrium and plan to ask the following questions. These will guide my design going forward. 
-* What size and shape are the majority of the buttons
-* What size screws are used to attach the buttons
+<img width="390" height="334" alt="Screenshot 2026-03-08 at 3 58 03 AM" src="https://github.com/user-attachments/assets/294f6365-a465-41e0-9dff-18eb3cfac063" />
+
+<img width="431" height="331" alt="Screenshot 2026-03-08 at 3 58 24 AM" src="https://github.com/user-attachments/assets/75c9e240-549b-421a-8c75-60c557f6012e" />
+
 
 ---
 
-#### Clamp:  
-
-![IMG_2453](https://github.com/user-attachments/assets/b2e8f0ec-7eee-442c-ba8a-0da4d95b23b9)
-
-The design above is not our design. This clamp came from the printables mount linked above. When testing the clamp, the bottom would bend when tightened and it would slide easily. 
-
-<img alt="Screenshot 2025-12-19 at 2 27 21 AM" src="https://github.com/user-attachments/assets/6d059b9f-a4fc-48cd-aa13-b2d10a105e16" />
-
-This is a photo of the current clamp that Atrium Health Rehab Center uses.
-
-As we redesign the clamp, we are working to make it more sturdy and to fit on more surfaces. Additionally, we will add and grip to the inside to prevent sliding. 
-
-#### Joints: 
-
-![IMG_4416](https://github.com/user-attachments/assets/b81a0a1d-a4cd-4e00-8cbf-7284fbdc90d9)
-
-This was the first ratchet joint that we looked at using. It did not move easily or lock easily. 
-
+### Joints: 
 
 ![IMG_2452](https://github.com/user-attachments/assets/b92367d9-8bcb-484f-a5bc-587aceafd07d)
 
+<img width="138" height="94" alt="Screenshot 2026-03-08 at 3 50 06 AM" src="https://github.com/user-attachments/assets/bef92616-c57d-4722-bd68-665b6861193d" />
 
-These are the current locking ratchet joints that we are using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
+
+These were the locking ratchet joints that we were using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
+
+<img width="445" height="284" alt="Screenshot 2026-03-08 at 3 50 23 AM" src="https://github.com/user-attachments/assets/9a16689e-d054-4201-9a34-45261fd06c9d" />
+
+In the new joint design, the main focus was on the fit of the teeth and the connection to the arms. The teeth were ajusted to fit more snugly into one another and to reduce the amount of wear on them. Being able to screw the arms in as opposed to permenantly attatching them allows the nurse to change the length of the arm attached to the mount without having to get a fully new mount. Aditionally, it makes the assembaly of the mount significantly easier.
