@@ -101,7 +101,7 @@ The current design for the plates has the piece to screw it on preattatched givi
 
 ![IMG_2452](https://github.com/user-attachments/assets/b92367d9-8bcb-484f-a5bc-587aceafd07d)
 
-<img width="138" height="94" alt="Screenshot 2026-03-08 at 3 50 06 AM" src="https://github.com/user-attachments/assets/bef92616-c57d-4722-bd68-665b6861193d" />
+<img alt="Screenshot 2026-03-08 at 3 50 06 AM" src="https://github.com/user-attachments/assets/bef92616-c57d-4722-bd68-665b6861193d" />
 
 
 These were the locking ratchet joints that we were using. The issue is that it is incredibly difficult to get the arms to connect to the joints. There were several arms that we broke in trying to slide them into place. Additionally, the joints are easy to move and lock easily, but the lock is not incredibly strong. 
