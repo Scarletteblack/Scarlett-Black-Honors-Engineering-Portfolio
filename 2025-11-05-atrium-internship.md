@@ -108,4 +108,9 @@ These were the locking ratchet joints that we were using. The issue is that it i
 
 <img width="445" height="284" alt="Screenshot 2026-03-08 at 3 50 23 AM" src="https://github.com/user-attachments/assets/9a16689e-d054-4201-9a34-45261fd06c9d" />
 
-In the new joint design, the main focus was on the fit of the teeth and the connection to the arms. The teeth were ajusted to fit more snugly into one another and to reduce the amount of wear on them. Being able to screw the arms in as opposed to permenantly attatching them allows the nurse to change the length of the arm attached to the mount without having to get a fully new mount. Aditionally, it makes the assembaly of the mount significantly easier.
+<img width="1175" height="634" alt="image" src="https://github.com/user-attachments/assets/41963ceb-39ca-4604-bbfb-24f452269482" />
+
+
+In the new joint design, the main focus was on the fit of the teeth and the connection to the arms. The surface area of the teeth was increased to increase the strength and to reduce the amount of wear on them. Being able to screw the arms in as opposed to permenantly attatching them allows the nurse to change the length of the arm attached to the mount without having to get a fully new mount. Aditionally, it makes the assembaly of the mount significantly easier.
+
+
